@@ -1,0 +1,17 @@
+{
+    "name": "crop/yii2-cropimage",
+    "description": "yii2-cropimage",
+    "keywords": ["yii2", "cropimage"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/q361196288/yii2_crop/issues",
+        "source": "https://github.com/q361196288/yii2_crop",
+    },
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+        "psr-4": { "yii2\\cropimage": "" }
+    }
+}
