@@ -6,7 +6,7 @@
     "license": "MIT",
     "support": {
         "issues": "https://github.com/q361196288/yii2_crop/issues",
-        "source": "https://github.com/q361196288/yii2_crop",
+        "source": "https://github.com/q361196288/yii2_crop"
     },
     "require": {
         "yiisoft/yii2": ">=2.0.4"
