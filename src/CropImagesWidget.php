@@ -4,6 +4,7 @@
  * User: ZhangLe
  * Date: 2019/2/13
  * Time: 10:18
+ * Email: 361196288@qq.com
  */
 
 namespace yii2\cropimage;
