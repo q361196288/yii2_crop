@@ -1,7 +1,7 @@
 {
     "name": "crop/yii2-cropimage",
-    "description": "yii2-cropimage",
-    "keywords": ["yii2", "cropimage"],
+    "description": "基于cropper的一款图片裁切组件",
+    "keywords": ["yii2", "cropimage","cropper"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
